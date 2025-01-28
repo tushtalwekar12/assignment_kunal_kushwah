@@ -8,5 +8,30 @@
 7. To calculate Fibonacci Series up to n numbers.
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
-**03-conditionals-loops**
-10. 
+**03-conditionals-loops** Basic Java Programs
+10. Area Of Circle Java Program -(x)
+11. Area Of Triangle   - (x)
+12. Area Of Rectangle Program
+13. Area Of Isosceles Triangle (x)
+14.  Area Of Parallelogram  -(x)
+   Area Of Rhombus
+   Area Of Equilateral Triangle
+   Perimeter Of Circle
+   Perimeter Of Equilateral Triangle
+   Perimeter Of Parallelogram
+   Perimeter Of Rectangle
+   Perimeter Of Square
+   Perimeter Of Rhombus
+   Volume Of Cone Java Program
+   Volume Of Prism
+   Volume Of Cylinder
+   Volume Of Sphere
+   Volume Of Pyramid
+   Curved Surface Area Of Cylinder
+   Total Surface Area Of Cube
+   Fibonacci Series In Java Programs
+   Subtract the Product and Sum of Digits of an Integer
+   Input a number and print all the factors of that number (use loops).
+   Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
+   Take integer inputs till the user enters 0 and print the largest number from all.
+   Addition Of Two Numbers
